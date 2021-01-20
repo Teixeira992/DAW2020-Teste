@@ -18,8 +18,8 @@
         <p>Para a realização do <b>Teste</b> no âmbito da <b>UC</b> de <i>Desenvolvimento de Aplicações WEB</i>foi proposto a realização de 2 exercicios.</p>
         <p>Para corrigir o dataset do primeiro exercicio foi corrido um primeiro script (first.js), e no resultado desse dataset foram, corrigidos alguns erros à mão, sendo eles a falta de 3/4 aspas e 1 virgula. 
             Seguidamente foi corrido um script para adicionar pai e mae. Para importar os dados para o mongo foi corrido o comado mongoimport --db Batismos --collection batismos --file batismos-fixed.json --jsonArray</p> 
-        <p>Para correr o primeiro exercicio basta executar npm i e npm start dentro da pasta ex1</p> 
-        <p>Para correr o segundo exercicio basta executar npm i e npm start dentro da pasta ex2</p> 
+        <p>Para correr o primeiro exercicio basta executar npm i, npm i mongoose e npm start dentro da pasta ex1</p> 
+        <p>Para correr o segundo exercicio basta executar npm i, npm i axios e npm start dentro da pasta ex2</p> 
         <p>As respostas às questoes do ex2 estão no ficheiro questoes.txt</p> 
 
     </abstract>
